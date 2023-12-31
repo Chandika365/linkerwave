@@ -29,9 +29,9 @@ export default function HeroSection() {
                                 className='rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600'>
                                 Join Linker
                             </a>
-                            <a href='#' className='text-sm font-semibold leading-6 text-indigo-900'>
+                            {/* <a href='#' className='text-sm font-semibold leading-6 text-indigo-900'>
                                 Join Linker <span arial-hidden='true'>→</span>
-                            </a>
+                            </a> */}
                         </div>
                     </div>
                 </div>

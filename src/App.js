@@ -5,6 +5,7 @@ import Navbar from './Components/Navbar';
 import ServiceSection from './Components/ServiceSection';
 import Services from './Components/Services';
 import State from './Components/State';
+import Testomionals from './Components/Testomionals';
 
 function App() {
   return (
@@ -14,8 +15,9 @@ function App() {
         <HeroSection/>
         <State/>
         <LogoSection/>
-        <Services/>
+        {/* <Services/> */}
         <ServiceSection/>
+        <Testomionals/>
       </div>
     </>
   );
